@@ -14,6 +14,7 @@ Group.suppress=0
 Group.relaxConstraints=0
 Group.allowRedundant=0
 Group.allDimsReference=0
+Group.scale=1.00000000000000000000
 Group.remap={
 }
 AddGroup
@@ -36,6 +37,7 @@ Group.suppress=0
 Group.relaxConstraints=0
 Group.allowRedundant=0
 Group.allDimsReference=0
+Group.scale=1.00000000000000000000
 Group.remap={
 }
 AddGroup
@@ -1426,9 +1428,9 @@ Constraint.ptB.v=8003000c
 Constraint.other=0
 Constraint.other2=0
 Constraint.reference=0
-Constraint.disp.offset.x=-5.11130680165558540000
-Constraint.disp.offset.y=1.87288633814862670000
-Constraint.disp.offset.z=-0.52482959768316484000
+Constraint.disp.offset.x=-11.78515404598561000000
+Constraint.disp.offset.y=-4.05470656381646590000
+Constraint.disp.offset.z=-5.16993927794278460000
 AddConstraint
 
 Surface 00000001 00646464 80030046 1 1
